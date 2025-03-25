@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sofiaputlyuk/goit-react-work/static/css/main.f855e6bc.css",
+    "main.js": "/sofiaputlyuk/goit-react-work/static/js/main.d8430ee0.js",
+    "static/js/453.b64b9e3d.chunk.js": "/sofiaputlyuk/goit-react-work/static/js/453.b64b9e3d.chunk.js",
+    "index.html": "/sofiaputlyuk/goit-react-work/index.html",
+    "main.f855e6bc.css.map": "/sofiaputlyuk/goit-react-work/static/css/main.f855e6bc.css.map",
+    "main.d8430ee0.js.map": "/sofiaputlyuk/goit-react-work/static/js/main.d8430ee0.js.map",
+    "453.b64b9e3d.chunk.js.map": "/sofiaputlyuk/goit-react-work/static/js/453.b64b9e3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d8430ee0.js"
+  ]
+}
